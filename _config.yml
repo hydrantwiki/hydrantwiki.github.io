@@ -1,6 +1,19 @@
-url: >
-  http://hydrantwiki.treegeckoproductions.com
-name: HydrantWiki
-description: >
-  A Crowd Sourced Hydrant Location
-  Database
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               HydrantWiki
+tagline:             'Crowd Sourced Hydrant Database'
+description:         'A Crowd Sourced Hydrant Location Database'
+url:                 http://hydrantwiki.github.io
+baseurl:             ''
+paginate:            10
+
+# About/contact
+author:
+  name:              Brian Nelson
+  url:               https://twitter.com/brian_e_nelson
+  email:             brian@hydrantwiki.com
+
+# Custom vars
+version:             1.0.0
