@@ -8,6 +8,7 @@ guid: http://hydrantwiki.treegeckoproductions.com/?page_id=167
 ---
 Open Source
 
+iOS App
   * <a href="http://jquery.com/" target="_blank"><span style="line-height: 14px;">JQuery</span></a>
   * <a href="http://jquerymobile.com/" target="_blank">JQuery Mobile</a>
   * <a href="http://osmsharp.codeplex.com/" target="_blank">OSMSharp</a>
@@ -18,10 +19,6 @@ Open Source
   * <a href="http://nancyfx.org/" target="_blank">NancyFX</a>
   * <a href="https://github.com/hydrantwiki" target="_blank">HydrantWiki Software</a>
 
-Closed Source
-
-  * <a href="http://mapbox.com/" target="_blank">MapBox</a>
-  * Microsoft IIS
 
 Other
 
