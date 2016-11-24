@@ -1,13 +1,8 @@
 ---
-id: 246
 title: New Updates
 date: 2014-11-28T00:53:34+00:00
 author: Brian
 layout: post
-guid: http://hydrantwiki.treegeckoproductions.com/?p=246
-permalink: /2014/11/28/new-updates/
-categories:
-  - General
 ---
 Today I launched a new version of the system.  The back end has been completely rewritten.  Existing users may need to reset their passwords to access the system.
 

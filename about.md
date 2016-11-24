@@ -1,10 +1,8 @@
 ---
-id: 132
 title: About
 date: 2013-03-11T00:24:00+00:00
 author: Brian
 layout: page
-guid: http://hydrantwiki.treegeckoproductions.com/?page_id=132
 ---
 I have been interested in geotagging fire hydrants for several years now.  I have written several apps over the years that do this, but I never got around to building a server to actually collect the data in a useable manner.  This site is the start of that work.
 
