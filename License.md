@@ -1,3 +1,10 @@
+---
+title: Privacy Policy
+date: 2013-03-12T07:36:31+00:00
+author: Brian
+layout: page
+---
+
 HydrantWiki is open data, licensed under the <a href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License</a> (ODbL) by the OpenStreetMap Foundation (OSMF).
 
 Any submissions to HydrantWiki are made under the above license.
