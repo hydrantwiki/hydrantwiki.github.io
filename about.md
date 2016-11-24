@@ -8,7 +8,7 @@ I have been interested in geotagging fire hydrants for several years now.  I ha
 
 The client side HTML 5 app has been open sourced to allow the broader community to suggest changes that can help improve the performance, and accuracy of the app.
 
-The server technology is not currently open sourced.  It isn&#8217;t in a state that will currently allow it to be.  I am hoping that over time I will be able to redesign portions of the platform so that they can be open sourced.  <span style="font-size: 14px; line-height: 1.5;">I will be publishing a series of blog posts detailing out how the site has been constructed. </span>
+The server technology is not currently open sourced.  It isn&#8217;t in a state that will currently allow it to be.  I am hoping that over time I will be able to redesign portions of the platform so that they can be open sourced.
 
 The really important function of the site is to improve the quality and coverage of the open hydrant location data.  The data for this site is a combination of data collected by HydrantWiki contributors, and OpenStreetMap contributors.  Currently there is a one way feed of data from OpenStreetMap to HydrantWiki.  The goal is to send hydrant positions back to the OpenStreetMap repository where it should be generally available.  This site is designed to augment OpenStreetMap as the open record for geolocation data.
 
