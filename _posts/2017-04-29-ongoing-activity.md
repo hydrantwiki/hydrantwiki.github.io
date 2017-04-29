@@ -1,6 +1,6 @@
 ---
 title: Was in Pittsburgh for a few days
-date: 2017-04-29T06:58:00+06:00
+date: 2017-04-29T06:58:00+00:00
 author: Brian
 layout: post
 ---
